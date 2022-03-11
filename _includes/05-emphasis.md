@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Skrills
+
+### Look at this sweet list:
+- *An item*
+- __Another item__
+- ***Wow, more item***
